@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+👨‍💻 3rd Year Engineering Student | 🌐 Aspiring Software Developer
+🔸 Java | Python | C/C++ | Frontend Dev
+🔹 Passionate about coding, technology, and innovation
+🌱 Lifelong learner on a quest for knowledge
+Let's shape the future through technology together! 🚀 #CodeLife #TechEnthusiast
 <!--
 **JagrutThakare/JagrutThakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
