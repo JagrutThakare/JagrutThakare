@@ -1,5 +1,5 @@
 ### Hi there 👋<br>
-👨‍💻 3rd Year Engineering Student <br><br>
+👨‍💻 4th Year Engineering Student <br><br>
 🌐 Aspiring Software Developer <br><br>
 🔸 Java | Python | C/C++ | Frontend Dev<br><br>
 🔹 Passionate about coding, technology, and innovation<br><br>
