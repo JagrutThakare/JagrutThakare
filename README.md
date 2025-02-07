@@ -1,7 +1,7 @@
 ### Hi there 👋<br>
 👨‍💻 4th Year Engineering Student <br><br>
 🌐 Aspiring Software Developer <br><br>
-🔸 Java | Python | C/C++ | Frontend Dev<br><br>
+🔸 Django | Java | Python<br><br>
 🔹 Passionate about coding, technology, and innovation<br><br>
 🌱 Lifelong learner on a quest for knowledge<br><br>
 Let's shape the future through technology together!<br> <br>
